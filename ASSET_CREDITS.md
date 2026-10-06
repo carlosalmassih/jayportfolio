@@ -8,3 +8,15 @@
 - Source URLs for remaining release links appear in the homepage HTML. Primary biographical source is the artist's completed questionnaire; the questionnaire is not part of the public package.
 
 No AI-generated artist portrait or album artwork is used. Confirm reuse permission for photographic/artwork assets with the artist before public launch. Keep this attribution record with your project.
+
+
+## Version 6 additions
+
+Cover artwork retrieved from Apple’s catalogue on 6 October 2026, used unaltered:
+- Afkarik (feat. Salim Tarabay) [Remix] - Single: https://music.apple.com/us/album/afkarik-feat-salim-tarabay-remix-single/1721616107?uo=4
+- Sans Toi (feat. Stephanie Fikany) - Single: https://music.apple.com/us/album/sans-toi-feat-stephanie-fikany-single/6817136044?uo=4
+- I Am Alive (Niko Hai) - Single: https://music.apple.com/us/album/i-am-alive-niko-hai-single/1756616375?uo=4
+- Into The Night - Single: https://music.apple.com/us/album/into-the-night-single/1825788850?uo=4
+- RISE AS ONE - Single: https://music.apple.com/us/album/rise-as-one-single/1825978797?uo=4
+
+Set thumbnails are served by YouTube for the corresponding video IDs. Players use YouTube’s privacy-enhanced embed domain and load on request. Channel: https://www.youtube.com/@Djjaymassih/videos

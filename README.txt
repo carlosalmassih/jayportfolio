@@ -1,10 +1,8 @@
-Jay Massih — GitHub Pages website
+Jay Massih — website version 6
 
-Extract this ZIP, then upload all its contents directly to your new repository root.
-index.html, assets, tracks and experience should appear at the root.
-Include .nojekyll. Do not upload the ZIP itself.
+Extract the ZIP and upload its contents directly to the GitHub repository root, replacing matching files.
+Include index.html, assets, data, tracks, sets, experience and .nojekyll.
+Commit to main. Settings > Pages > Deploy from a branch > main > /(root).
 
-Commit to main. In Settings > Pages choose Deploy from a branch, main, /(root), then Save.
-The site needs no build step. GitHub will display the live URL after deployment.
-
-The accompanying Jay_Massih_Website_Master_Handoff.md contains maintenance notes and the test report.
+Add or edit set videos in data/sets.js. Videos remain hosted on YouTube.
+For maintenance instructions, see the accompanying Jay_Massih_Website_Master_Handoff_v6.md.
