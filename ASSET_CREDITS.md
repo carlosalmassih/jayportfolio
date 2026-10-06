@@ -20,3 +20,5 @@ Cover artwork retrieved from Apple’s catalogue on 6 October 2026, used unalter
 - RISE AS ONE - Single: https://music.apple.com/us/album/rise-as-one-single/1825978797?uo=4
 
 Set thumbnails are served by YouTube for the corresponding video IDs. Players use YouTube’s privacy-enhanced embed domain and load on request. Channel: https://www.youtube.com/@Djjaymassih/videos
+
+Version 7: Deezer and Tidal SVG service marks from Simple Icons v16 (CC0), downloaded via jsDelivr. The record graphic on the Sets introduction is a CSS illustration, not release artwork.

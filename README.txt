@@ -1,8 +1,10 @@
-Jay Massih — website version 6
+Jay Massih — website version 7
 
-Extract the ZIP and upload its contents directly to the GitHub repository root, replacing matching files.
-Include index.html, assets, data, tracks, sets, experience and .nojekyll.
+Upload all extracted contents directly to the GitHub repository root, replacing matching files.
+Include assets/js/story.js (new), all other assets, data, tracks, sets, experience and .nojekyll.
 Commit to main. Settings > Pages > Deploy from a branch > main > /(root).
+After deployment finishes, refresh with Ctrl+Shift+R.
 
-Add or edit set videos in data/sets.js. Videos remain hosted on YouTube.
-For maintenance instructions, see the accompanying Jay_Massih_Website_Master_Handoff_v6.md.
+Desktop homepage: fixed stage with scroll-driven scenes and scene-navigation buttons.
+Mobile, short windows and reduced-motion preferences: ordinary readable layout.
+See the accompanying version 7 master handoff for maintenance instructions and research notes.
