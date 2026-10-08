@@ -1,10 +1,13 @@
-Jay Massih — website version 9
+Jay Massih — website version 10
 
-Upload all extracted contents directly to the GitHub repository root, replacing matching files.
-Include assets/js/story.js (new), all other assets, data, tracks, sets, experience and .nojekyll.
-Commit to main. Settings > Pages > Deploy from a branch > main > /(root).
-After deployment finishes, refresh with Ctrl+Shift+R.
+Upload ALL extracted contents directly to the repository root, replacing matching files. Include the new home folder and root index.html redirect.
 
-Desktop homepage: name-only opening, followed by individually animated text, portrait, track cards and venue rows. Scene buttons jump to fully revealed content.
-Mobile, short windows and reduced-motion preferences: ordinary readable layout.
-See the accompanying version 9 master handoff for maintenance instructions and research notes.
+Public pages: /home/, /tracks/, /sets/, /experience/.
+The root address redirects to /home/.
+Edit homepage content in home/index.html; edit the track catalogue in tracks/index.html.
+
+GitHub Pages: Deploy from a branch > main > /(root). Refresh after deployment with Ctrl+Shift+R.
+
+No custom domain is configured yet. Once purchased, connect it in GitHub Pages settings and follow GitHub's DNS instructions. Do not remove an existing CNAME file when uploading updates.
+
+See Jay_Massih_Website_Master_Handoff_v10.md for full maintenance instructions.
