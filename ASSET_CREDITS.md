@@ -24,3 +24,7 @@ Set thumbnails are served by YouTube for the corresponding video IDs. Players us
 Version 7: Deezer and Tidal SVG service marks from Simple Icons v16 (CC0), downloaded via jsDelivr. The record graphic on the Sets introduction is a CSS illustration, not release artwork.
 
 Version 10: locally drawn WhatsApp contact glyph (phone and speech bubble), used to identify the booking link.
+
+## Version 11 archive
+
+All 72 archive photographs were supplied by the user in Jay Archive.zip. Captions derive from their container folders. WebP previews and larger viewing copies preserve proportions, use no AI generation, and remove metadata. The Anfeh Festival 2014 folder had only a Facebook shortcut and supplied no photograph. Instagram profile content remains hosted by Instagram and is embedded from https://www.instagram.com/jay_massih/embed/.
